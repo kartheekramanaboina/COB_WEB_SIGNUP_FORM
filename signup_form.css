@@ -1,11 +1,11 @@
-/* Reset default browser styles */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Apply styles to the container */
+
 .container {
     max-width: 400px;
     margin: 0 auto;
@@ -16,26 +16,23 @@
     text-align: center;
 }
 
-/* Style the form header */
 h2 {
     margin-bottom: 20px;
     color: #333;
 }
 
-/* Style form groups (labels and input fields) */
 .form-group {
     margin-bottom: 20px;
     text-align: left;
 }
 
-/* Style labels */
 label {
     display: block;
     margin-bottom: 5px;
     color: #555;
 }
 
-/* Style input fields */
+
 input[type="text"],
 input[type="email"],
 input[type="password"] {
@@ -45,7 +42,7 @@ input[type="password"] {
     border-radius: 3px;
 }
 
-/* Style the submit button */
+
 button {
     padding: 10px 20px;
     background-color: #007bff;
